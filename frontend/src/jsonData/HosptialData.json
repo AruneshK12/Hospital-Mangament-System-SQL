@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Carle Hospital",
+    "address": "600 CAISSON HILL RD",
+    "rating": 4.0,
+    "contactNumber": "8504056601",
+    "email": "carle@hospital.com"
+  },
+  {
+    "id": 8,
+    "name": "IRWIN ARMY COMMUNITY HOSPITAL",
+    "address": "600 CAISSON HILL RD",
+    "rating": 0.0,
+    "averageScore": 3.79,
+    "email": "irwin.army.community.hospital@hospital.com"
+  },
+  {
+    "id": 11,
+    "name": "NAVAL HOSPITAL BEAUFORT",
+    "address": "1 PINCKNEY BLVD",
+    "rating": 0.0,
+    "averageScore": 4.82,
+    "email": "naval.hospital.beaufort@hospital.com"
+  },
+  {
+    "id": 13,
+    "name": "NAVAL HOSPITAL CAMP LEJEUNE",
+    "address": "100 BREWSTER BLVD, CAMP LEJEUNE, NC 28547",
+    "rating": 4.15,
+    "contactNumber": "9104504300",
+    "email": "enquire@navalhospitalcamplejeune.com"
+  },
+  {
+    "id": 15,
+    "name": "NAVAL HOSPITAL PENSACOLA",
+    "address": "6000 WEST HIGHWAY 98, PENSACOLA, FL 32512",
+    "rating": 4.59,
+    "contactNumber": "8505056601",
+    "email": "enquire@navalhospitalpensacola.com"
+  }
+]
